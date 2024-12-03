@@ -19,6 +19,6 @@ This library provides access to the Keychain (iOS) and Keystore (Android) for se
 
 ## Changelog
 
-Check the [GitHub Releases page](https://github.com/willfranck/react-native-keychain/releases).
+Check the GitHub Releases page
 
 
